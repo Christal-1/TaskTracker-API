@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+tasktracker.db
+tasktracker.db-shm
+tasktracker.db-wal
